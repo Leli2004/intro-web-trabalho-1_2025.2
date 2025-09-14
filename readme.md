@@ -29,3 +29,5 @@ Além dos elementos obrigatórios, foram aplicados:
 - Layout organizado com uso de **Flexbox** e tags semânticas do HTML5 (`<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>`).  
 
 ---
+
+Mais informações sobre o desenvolvimento no arquivo ./Relatório.pdf
